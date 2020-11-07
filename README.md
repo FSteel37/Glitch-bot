@@ -1,2 +1,5 @@
-# Glitch-bot
-Glitch bot dosyaları
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
